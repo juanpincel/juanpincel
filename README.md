@@ -5,7 +5,7 @@
 
 - 🤖 Python • Node JS • Infrastructure as code
 - ☁️ GCP • Azure
-- 🐧 Linux entusiast
+- 🐧 Linux enthusiast
 - 🇩🇪 Being a Data Scientist in Germany is my goal!
 - 😂 Fun fact? WTF! there are a lot! 
 
