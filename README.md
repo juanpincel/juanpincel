@@ -1,7 +1,7 @@
 
 <h1 style="text-align:center; font-size: 35px; font-family: 'VT323', monospace;"> Hi folks, I'm Juan  <img src=https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif width="30px"></h1>
 
-<p>I'm a cloud engineer from 🇪🇨 automating cool stuff in GCP. </p>
+<p>I'm a cloud engineer automating cool stuff in GCP. </p>
 
 - 🤖 Python • Node JS • Infrastructure as code
 - ☁️ GCP • Azure
