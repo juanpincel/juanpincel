@@ -22,7 +22,7 @@
 
 <h3 style="text-align:left; font-size: 20px; font-family: 'VT323', monospace;"> • Get in touch</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-@JuanPincel90-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JuanPincel90)](https://twitter.com/JuanPincel90) [![Linkedin Badge](https://img.shields.io/badge/-jepazmino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jepazmino/)](www.linkedin.com/in/jepazmino) 
+[![Twitter Badge](https://img.shields.io/badge/-@JuanPincel90-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JuanPincel90)](https://twitter.com/JuanPincel90) [![Linkedin Badge](https://img.shields.io/badge/-jepazmino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jepazmino/)](https://www.linkedin.com/in/jepazmino) 
 
 <p style="text-align:center;"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4aaa942369301.57cf9b119d9b7.jpg" width="250"></p>
 
